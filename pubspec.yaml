@@ -1,7 +1,7 @@
 name: flutter_log_rocket
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rymesaint/flutter_log_rocket
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
