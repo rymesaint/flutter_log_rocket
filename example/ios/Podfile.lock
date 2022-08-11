@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_log_rocket (0.0.1):
+    - Flutter
+    - LogRocket (= 1.4.6)
+  - LogRocket (1.4.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_log_rocket (from `.symlinks/plugins/flutter_log_rocket/ios`)
+
+SPEC REPOS:
+  trunk:
+    - LogRocket
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_log_rocket:
+    :path: ".symlinks/plugins/flutter_log_rocket/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_log_rocket: e5af1f54d9b0c4677e200210a32219c101d72242
+  LogRocket: fed66d1cbfab9b1cf637c0df27c6a50440fc60ea
+
+PODFILE CHECKSUM: 4e8f8b2be68aeea4c0d5beb6ff1e79fface1d048
+
+COCOAPODS: 1.11.3
