@@ -9,9 +9,9 @@ project = OpenStruct.new YAML.load_file("../pubspec.yaml")
 Pod::Spec.new do |s|
   s.name             = project.name
   s.version          = project.version
-  s.summary          = 'A new Flutter plugin project.'
+  s.summary          = 'Flutter Log Rocket'
   s.description      = project.description
-  s.homepage         = 'https://logrocket.com'
+  s.homepage         = 'https://github.com/rymesaint/flutter_log_rocket'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Ridwan Fauzan' => 'rymetutor@gmail.com' }
   s.source           = { :path => '.' }
